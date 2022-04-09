@@ -1,4 +1,6 @@
 # FuncTeamSample
 
 1. Gusam Park
-2. Minwoo Sung
+2. Seungyeong Yoo
+3. Lee Jae Ik
+4. Minwoo Sung
